@@ -4,7 +4,7 @@
 Lists, dictionaries, tuples, and the combination that matters most
 later: a list of dictionaries.
 
-Run with: uv run _1_data_structures.py
+Run with: uv run 002_data_structures.py
 """
 
 # --- Lists: an ordered, changeable collection ---
