@@ -13,7 +13,7 @@ print(cities[0])          # indexing -- first item
 print(cities[-1])         # negative indexing -- last item
 print(cities[0:2])        # slicing -- a sub-list
 cities.append("Paris")    # adding to the end
-print(cities)
+print(cities)             # prints all the items from list
 
 for city in cities:
     print(f"Visiting {city}")
